@@ -1,0 +1,457 @@
+{
+  "groupOrders": [
+    {
+      "id": "5125ed7b-c626-4411-ad94-2fc6270a43e1",
+      "title": "DMD",
+      "status": "closed",
+      "deliveryFee": 0,
+      "buyerName": "Omar",
+      "ownerIp": "127.0.0.1",
+      "createdAt": "2026-09-30T11:40:37.663Z",
+      "orders": [
+        {
+          "id": "04801040-967f-433e-a36c-24d242ca54f6",
+          "personName": "OmarAKA",
+          "editToken": "e5987d44-3a80-4b6d-a901-294e52030d44",
+          "paid": false,
+          "lines": [
+            {
+              "id": "94548957-edbb-4ba1-978e-7b38d2451bb0",
+              "menuItemId": "foul-olive",
+              "name": "Foul with olive oil",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 21,
+              "qty": 1,
+              "extras": []
+            },
+            {
+              "id": "31b876bd-c0c7-486c-b9b9-ed9194e877e9",
+              "menuItemId": "taamia-labna",
+              "name": "Taamia with labna",
+              "unitPrice": 40,
+              "qty": 1,
+              "extras": []
+            }
+          ],
+          "createdAt": "2026-09-30T11:44:54.490Z",
+          "updatedAt": "2026-09-30T11:44:54.490Z"
+        }
+      ],
+      "closedAt": "2026-09-30T11:47:46.968Z"
+    },
+    {
+      "id": "0177d38d-3e5c-4ff3-a69e-a932f3032366",
+      "title": "DMD, Wednesday 30 Sept",
+      "status": "closed",
+      "deliveryFee": 60,
+      "buyerName": "Youssef",
+      "ownerIp": "127.0.0.1",
+      "createdAt": "2026-09-30T11:46:49.411Z",
+      "orders": [
+        {
+          "id": "9a835e47-35fc-47d2-9c90-c04a18d7033e",
+          "personName": "nasr",
+          "editToken": "af63d87b-d734-4b13-9203-127f7cf9b0ea",
+          "paid": false,
+          "lines": [
+            {
+              "id": "9aa18073-7ebf-4b87-bb90-6324a45669ed",
+              "menuItemId": "foul-regular",
+              "name": "Regular foul",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 16,
+              "qty": 1,
+              "extras": []
+            },
+            {
+              "id": "66269934-5c53-4d35-aa1a-e40caadf7dd6",
+              "menuItemId": "foul-pastrami",
+              "name": "Foul with pastrami",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 32,
+              "qty": 1,
+              "extras": []
+            }
+          ],
+          "createdAt": "2026-09-30T12:25:39.461Z",
+          "updatedAt": "2026-09-30T12:25:39.461Z"
+        },
+        {
+          "id": "39c0c905-fe0e-4ac6-b65f-56f8191b479b",
+          "personName": "Youssef",
+          "editToken": "024c33c9-f475-4cdf-bb2d-6cd9de09203a",
+          "paid": false,
+          "lines": [
+            {
+              "id": "a7fed221-4b28-4a0c-afd8-e964b424eb86",
+              "menuItemId": "foul-dammes",
+              "name": "Foul dammes",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 22,
+              "qty": 1,
+              "extras": []
+            }
+          ],
+          "createdAt": "2026-09-30T12:26:16.308Z",
+          "updatedAt": "2026-09-30T12:26:16.308Z"
+        }
+      ],
+      "closedAt": "2026-09-30T21:00:00.000Z",
+      "autoClosed": true
+    },
+    {
+      "id": "b3809c67-5fdb-49ad-8d69-5518bfc97787",
+      "title": "tttt, Wed 30 Sept",
+      "status": "closed",
+      "deliveryFee": 60,
+      "buyerName": "wqwd",
+      "ownerIp": "127.0.0.1",
+      "createdAt": "2026-09-30T11:59:52.883Z",
+      "orders": [
+        {
+          "id": "50a89d40-a4f7-4e67-9662-a6b4b300f311",
+          "personName": "OmarAKA",
+          "editToken": "29f598f3-f932-4f71-aa5f-cb0b43a361be",
+          "paid": false,
+          "lines": [
+            {
+              "id": "4cd7f1cf-7318-408e-b981-7174ec3f68b9",
+              "menuItemId": "foul-regular",
+              "name": "Regular foul",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 16,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "x-kiri",
+                  "name": "Kiri cheese",
+                  "price": 21
+                }
+              ]
+            }
+          ],
+          "createdAt": "2026-09-30T12:00:14.068Z",
+          "updatedAt": "2026-09-30T12:00:14.068Z"
+        }
+      ],
+      "closedAt": "2026-09-30T21:00:00.000Z",
+      "autoClosed": true
+    },
+    {
+      "id": "4ee9b806-4f47-47a2-90a1-7984c9b2bfd9",
+      "title": "Elzoz, Wed 30 Sept",
+      "status": "closed",
+      "deliveryFee": 0,
+      "buyerName": "Aziz",
+      "ownerIp": "127.0.0.1",
+      "createdAt": "2026-09-30T12:32:57.838Z",
+      "orders": [],
+      "closedAt": "2026-09-30T21:00:00.000Z",
+      "autoClosed": true
+    },
+    {
+      "id": "89618268-587f-4d1e-bf9e-3d97cc6354e4",
+      "title": "test, Thu 1 Oct",
+      "status": "open",
+      "deliveryFee": 0,
+      "buyerName": "Guy",
+      "ownerIp": "127.0.0.1",
+      "createdAt": "2026-10-01T05:44:30.991Z",
+      "orders": [
+        {
+          "id": "21ae53f4-5692-477b-92f6-c35ae1867df7",
+          "personName": "Omar",
+          "editToken": "050528ef-b9e8-40b8-856a-10d96bef5307",
+          "paid": false,
+          "lines": [
+            {
+              "id": "46010ce3-1718-4be2-85d3-7ee8dcac5012",
+              "menuItemId": "foul-olive",
+              "name": "Foul with olive oil",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 22,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "5b6fafe6-e04f-4652-bbb8-8607a2235052",
+              "menuItemId": "egg-cheddar",
+              "name": "Omelette with cheddar",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 47,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "3a669629-f3a0-4551-9caa-3542861f08a3",
+              "menuItemId": "cheese-mint",
+              "name": "Mix cheese with mint",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 54,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "createdAt": "2026-10-01T06:43:27.402Z",
+          "updatedAt": "2026-10-01T07:59:56.685Z"
+        },
+        {
+          "id": "da9df822-adaf-4762-9b28-e25b494253cc",
+          "personName": "Nasr",
+          "editToken": "1ac3a3e4-b61b-4337-97f8-f07158ce29bf",
+          "paid": false,
+          "lines": [
+            {
+              "id": "209c1c34-b305-434d-a9ee-cd0cf2728269",
+              "menuItemId": "egg-pastrami",
+              "name": "Omelette with pastrami",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 49,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "7665b688-9d65-465f-b835-cf78d1603e61",
+              "menuItemId": "foul-salsa",
+              "name": "Foul with salsa",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 20,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "createdAt": "2026-10-01T06:47:55.140Z",
+          "updatedAt": "2026-10-01T06:57:35.495Z"
+        },
+        {
+          "id": "953990b5-6fd5-4e21-aefa-ffe0fdaef82d",
+          "personName": "Emara",
+          "editToken": "50153158-c492-4bde-be94-2a161f626e67",
+          "paid": false,
+          "lines": [
+            {
+              "id": "8383c779-2b3a-4bba-9384-3e8f062e6ca4",
+              "menuItemId": "taamia-bites-Fino",
+              "name": "Taamia bites fino",
+              "unitPrice": 32,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "x-tomato",
+                  "name": "Tomato",
+                  "price": 1
+                },
+                {
+                  "extraId": "x-pickled-eggplant",
+                  "name": "Pickled eggplant",
+                  "price": 12
+                }
+              ]
+            },
+            {
+              "id": "6715e3b3-4d03-477c-bef2-f48a5943bbfd",
+              "menuItemId": "egg-cheddar",
+              "name": "Omelette with cheddar",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 47,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "createdAt": "2026-10-01T07:53:26.938Z",
+          "updatedAt": "2026-10-01T07:58:38.203Z"
+        },
+        {
+          "id": "f828599e-12c1-4e0f-956a-0a6a6ab99642",
+          "personName": "Youssef",
+          "editToken": "89172aca-9ae3-44ca-b52c-329c46e69d9e",
+          "paid": false,
+          "lines": [
+            {
+              "id": "a57cdf8e-c385-44f9-8020-8795b53a48e7",
+              "menuItemId": "taamia",
+              "name": "Taamia",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 18,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                },
+                {
+                  "extraId": "m-tahini-no",
+                  "name": "No tahini",
+                  "price": 0
+                },
+                {
+                  "extraId": "m-salad-no",
+                  "name": "No salad",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "2f95b2c7-ae44-40be-9f9b-1436d9d987d6",
+              "menuItemId": "fries",
+              "name": "French fries",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 34,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-shami",
+                  "name": "Shami bread",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "a5d5d7a5-9aff-46ba-a8ad-a4a7e46ccd54",
+              "menuItemId": "pepsi",
+              "name": "V Cola",
+              "unitPrice": 21,
+              "qty": 1,
+              "extras": []
+            }
+          ],
+          "createdAt": "2026-10-01T07:54:04.034Z",
+          "updatedAt": "2026-10-01T07:54:04.034Z"
+        },
+        {
+          "id": "0d4a511c-f95b-4a61-9f7e-ddc3c9800d31",
+          "personName": "Sherif",
+          "editToken": "377bceca-115e-449b-b826-6fd08b413393",
+          "paid": false,
+          "lines": [
+            {
+              "id": "8b9f3c67-d01d-4c71-99d4-9dfe0a899c3e",
+              "menuItemId": "foul-regular",
+              "name": "Regular foul",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 17,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "083931de-7c91-489d-8f8f-e5c1f6ad3913",
+              "menuItemId": "taamia",
+              "name": "Taamia",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 18,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "createdAt": "2026-10-01T07:54:24.011Z",
+          "updatedAt": "2026-10-01T07:54:24.011Z"
+        },
+        {
+          "id": "041009e7-a54a-4f5f-ab06-f2d54aaf8cfb",
+          "personName": "Mazen",
+          "editToken": "3f3e7926-4134-4ba4-9e33-59ca33cf9ade",
+          "paid": false,
+          "lines": [
+            {
+              "id": "3269dbc5-db87-4a75-ab51-f023ac4a4966",
+              "menuItemId": "taamia",
+              "name": "Taamia",
+              "variantId": "sandwich",
+              "variantName": "Sandwich",
+              "unitPrice": 18,
+              "qty": 1,
+              "extras": [
+                {
+                  "extraId": "m-bread-baladi",
+                  "name": "Baladi bread",
+                  "price": 0
+                },
+                {
+                  "extraId": "x-tomato",
+                  "name": "Tomato",
+                  "price": 1
+                }
+              ]
+            },
+            {
+              "id": "1635280f-36bb-4c7e-848e-4060a8d53818",
+              "menuItemId": "fries",
+              "name": "French fries",
+              "variantId": "pack",
+              "variantName": "Carry-out pack",
+              "unitPrice": 42,
+              "qty": 1,
+              "extras": []
+            }
+          ],
+          "createdAt": "2026-10-01T08:43:52.463Z",
+          "updatedAt": "2026-10-01T08:43:52.463Z"
+        }
+      ]
+    }
+  ]
+}
